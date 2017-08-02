@@ -1,0 +1,11 @@
+com\jnit\hibernate\Main\StudentMian.class
+com\hibernate\model\User.class
+com\jnit\hibernate\Main\OnetoOne.class
+com\jnit\hibernate\model\Student.class
+com\jnit\hibernate\model\Address.class
+com\jnit\hibernate\util\HibernateUtil.class
+com\jnit\hibernate\Main\CustomerMain.class
+com\hibernate\main\UserMain.class
+com\hibernate\util\HibernateUtil.class
+com\jnit\hibernate\model\Order.class
+com\jnit\hibernate\model\Customer.class
